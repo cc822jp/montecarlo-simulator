@@ -187,6 +187,10 @@ const ct=new WeakMap,ht=(dt=t=>e=>{if(!(e instanceof x)||e instanceof T||"class"
         box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.2);
       }
 
+      .button:active {
+      opacity: 0.5;
+      }
+
       .button--primary {
         color: #fff;
         background: linear-gradient(-135deg, #f44336, #e53935);
