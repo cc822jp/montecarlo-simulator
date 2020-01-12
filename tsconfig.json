@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules"],
+  "plugins": [
+    {
+      "name": "typescript-tslint-plugin",
+      "alwaysShowRuleFailuresAsWarnings": true,
+      "configFile": "./tslint.json"
+    },
+    {
+      "name": "typescript-lit-html-plugin"
+    }
+  ]
+}
