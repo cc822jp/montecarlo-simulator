@@ -36,7 +36,7 @@
   "devDependencies": {
     "copy-webpack-plugin": "^5.1.1",
     "gh-pages": "^2.2.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "husky": "^4.0.7",
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1",
@@ -47,7 +47,7 @@
     "typescript": "^3.7.4",
     "typescript-lit-html-plugin": "^0.9.0",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.1",
     "webpack-merge": "^4.2.2"
   },
